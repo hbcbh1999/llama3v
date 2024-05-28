@@ -13,7 +13,7 @@ llama3v is a SOTA vision model that is powered by [Llama3 8B](https://llama.meta
 
 Checkout [huggingface](https://huggingface.co/mustafaaljadery/llama3v) for the model weights.
 
-![Metrics](./metrics.png)
+![Metrics](./images/metrics.png)
 
 ## Usage
 
@@ -35,7 +35,7 @@ print(answer)
 
 The model first passes through the image through the vision model to extract the features, then pass through the language model to generate the answer. Here is a sample inference pipeline:
 
-![Architecture](./architecture.png)
+![Architecture](./images/architecture.png)
 
 ## Training Process
 
