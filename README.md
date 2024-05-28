@@ -2,7 +2,7 @@
 
 llama3v is a SOTA vision model that is powered by [Llama3 8B](https://llama.meta.com/llama3/) and [siglip-so400m](https://huggingface.co/google/siglip-so400m-patch14-384).
 
-[ [Model Weights](https://huggingface.co/mustafaaljadery/llama3v) ] [ [Blog Post](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee) ]
+[ [GitHub](https://github.com/mustafaaljadery/llama3v) ] [ [Model Weights](https://huggingface.co/mustafaaljadery/llama3v) ] [ [Blog Post](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee) ]
 
 ## Features
 
