@@ -9,11 +9,11 @@ llama3v is a SOTA vision model that is powered by [Llama3 8B](https://llama.meta
 - SOTA open-source VLLM
 - Model is available on Huggingface
 - Fast local inference
-- Release of training + inference code
+- Release inference code (training code is coming soon, just cleaning up)
 
 Checkout [huggingface](https://huggingface.co/mustafaaljadery/llama3v) for the model weights.
 
-![Metrics](./images/metrics.png)
+![Metrics](./metrics.png)
 
 ## Usage
 
@@ -35,7 +35,7 @@ print(answer)
 
 The model first passes through the image through the vision model to extract the features, then pass through the language model to generate the answer. Here is a sample inference pipeline:
 
-![Architecture](./images/architecture.png)
+![Architecture](./architecture.png)
 
 ## Training Process
 
