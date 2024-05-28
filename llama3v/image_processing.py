@@ -1,5 +1,4 @@
 from torchvision import transforms
-from transformers import AutoTokenizer
 import torch
 import math
 from PIL import Image
